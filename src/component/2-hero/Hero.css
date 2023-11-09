@@ -76,7 +76,7 @@ section.hero .all-icons a:hover {
 }
 @media (max-width :400px){
   section.hero .title {
-    font-size: 1.85rem;
+    font-size: 2.1rem;
     line-height: 2.3rem;
   }
 
