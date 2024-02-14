@@ -90,15 +90,14 @@ const Main = () => {
               <div className="box">
                 <h1 className="title">{item.projectTitle}</h1>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                  Officia totam nam velit a quibusdam modi maiores
+                  {item.description}
                 </p>
                 <div className="flex icons">
                   <div className="flex" style={{ gap: "11px" }}>
                     <a className="icon-link" href={item.link} target="__blank"></a>
                     <a className="icon-github" href={item.github} target="__blank"></a>
                   </div>
-                  <a href="" className="flex">
+                  <a className="flex" href={item.github} target="__blank">
                     more
                     <span
                       className="icon-arrow-right"
