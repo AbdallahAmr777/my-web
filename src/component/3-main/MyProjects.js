@@ -62,6 +62,7 @@ export const MyProjects = [
     category: ["css", "bootstrap", "js"],
     image: "./image/Capture10.PNG",
     description: "Netflix Design page And the validation form page, and after passing it, a movie page is displayed with the fatchAPI",
+    link: "https://netflix-clone-xi-azure.vercel.app/",
     github: "https://github.com/AbdallahAmr777/Netflix",
   },
   {
