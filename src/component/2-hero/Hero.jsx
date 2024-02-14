@@ -10,13 +10,10 @@ const Hero = () => {
           <div className="icon-verified_user"></div>
         </div>
         <h1 className="title">
-          Software engineer,designer , and amateur astronaut.
+          Software engineer, web developer, and designer.
         </h1>
         <p className="subTitle">
-          I’m Spencer, a software engineer and entrepreneur based in New York
-          City. I’m the founder and CEO of Planetaria, where we develop
-          technologies that empower regular people to explore space on their own
-          terms.
+         I’m Abdullah, a software engineer and web developer,I build websites well as landing pages useing modern methods.
         </p>
         <div className="all-icons flex">
           <a className="icon icon-twitter"></a>
