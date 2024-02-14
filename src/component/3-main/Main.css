@@ -96,6 +96,8 @@ article.card .box p {
   font-size: 0.8rem;
   margin-top: 0.7rem;
   margin-bottom: 1.1rem;
+   height: 72px;
+
 }
 article.card .box .icons {
   justify-content: space-between;
