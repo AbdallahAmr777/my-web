@@ -10,7 +10,7 @@ const Hero = () => {
           <div className="icon-verified_user"></div>
         </div>
         <h1 className="title">
-          Software engineer, web developer, and designer.
+          Software engineer, Web developer, and Media buyer.
         </h1>
         <p className="subTitle">
          I’m Abdullah, a software engineer and web developer,I build websites well as landing pages useing modern methods.
