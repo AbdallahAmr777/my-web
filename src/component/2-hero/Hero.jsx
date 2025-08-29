@@ -19,7 +19,7 @@ const Hero = () => {
           <a className="icon icon-twitter"></a>
           <a className="icon icon-instagram"></a>
           <a className="icon icon-github" href="https://github.com/AbdallahAmr777/" target="__blank"></a>
-          <a className="icon icon-linkedin-square"  href="https://www.linkedin.com/in/abdullah-amr-7a7ab9268/" target="__blank"></a>
+          <a className="icon icon-linkedin-square"  href="https://www.linkedin.com/in/abdullah-amr-432346381/" target="__blank"></a>
         </div>
       </div>
       <div className="right-section animation ">
